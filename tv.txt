@@ -117,3 +117,7 @@ IPTV法治,http://192.168.10.1:8139/rtp/239.81.0.20:4056
 IPTV相声小品,http://192.168.10.1:8139/rtp/239.81.0.17:4056
 IPTV谍战剧场,http://192.168.10.1:8139/rtp/239.81.0.15:4056
 体育赛事HD,http://192.168.10.1:8139/rtp/239.81.0.243:4056
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=1
+TVB财经,http://live.cooltv.top/tv/tvb.php?id=2
+TVB财经,http://live.cooltv.top/tv/tvb.php?id=3
